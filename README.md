@@ -14,6 +14,16 @@ The project focuses on the nature and drivers of reviews for Airbnb visits, asks
 - Which neighbourhoods tend to generate disproportionately positive sentiment in reviews?
 - Which features are most predictive of positive review scores?
 
+### Structure
+
+This exploration follows the CRISP-DM approach. 
+
+This is done at two levels. First, through the high-level numbered sections of the notebook. These begin by understanding the problems we're trying to solve, understanding our data, and conducting some high-level data preparation.
+
+Secondly, within each of our research questions we follow the data preparation, modelling, and evaluation steps. 
+
+Note that deployment is not considered in this exercise, since it is purely a descriptive exploratory analysis. Note also that business understanding and data understanding are not covered within each of the research questions, since they're covered in a macro fashion at the start of the notebook.
+
 ### Summary
 We found that there are ways to categorise text descriptions in the reviews, and that the majority of such responses indicate positive sentiment. There was variation by locality, although the differences were relatively small. 
 
